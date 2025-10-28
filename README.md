@@ -8,7 +8,7 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="17%">
-       <a rel="me" href="www.linkedin.com/in/alireza-sadeghi-hafshejani/" target="_blank">
+       <a rel="me" href="https://www.linkedin.com/in/alireza-sadeghi-hafshejani/" target="_blank">
             <img src="https://www.habuma.com/img/linkedin.png" height="100"/>
             <h4>LinkedIn <b>Alireza Sadeghi</b></h4>
         </a>
