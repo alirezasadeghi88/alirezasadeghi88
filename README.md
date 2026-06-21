@@ -1,4 +1,4 @@
-<h3 align="center">Java Developer | Backend Enthusiast</h3>
+<h3 align="center">Java Developer</h3>
 
 <p align="justify">
   I am a dedicated Java Developer with a solid foundation in software architecture and backend systems. Beyond my academic background, I have spent significant time mastering core and advanced Java concepts through hands-on practice and in-depth study of industry-standard resources. 
